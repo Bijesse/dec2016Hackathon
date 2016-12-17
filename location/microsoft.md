@@ -15,7 +15,7 @@ Letter| Team Name |        Github Repo      |      Deployable Link    |
 ------|-----------|-------------------------| ----------------------- |
 A     |           | [Link](insert link here)| [Link](insert link here)|
 B     |           | [Link](insert link here)| [Link](insert link here)|
-C     |           | [Link](insert link here)| [Link](insert link here)|
+C     |LAJJ           | [Link](https://github.com/joelc1337/scriptEdDecHackathon/blob/master/scenario.html)| [Link](https://cdn.rawgit.com/joelc1337/scriptEdDecHackathon/master/scenario.html)|
 D     |           | [Link](insert link here)| [Link](insert link here)|
 E     |           | [Link](insert link here)| [Link](insert link here)|
 F     |           | [Link](insert link here)| [Link](insert link here)|
