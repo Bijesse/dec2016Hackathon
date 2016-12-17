@@ -6,9 +6,10 @@
 3. Add your team name, link to your repo and a link to your deployable website in the cells provided.
 4. Send a Pull request
 
-Projects must be submitted before 5:00pm  
+Projects must be submitted before 5:00pm... Be sure to start the submission process by 4:45!  
 **Any project submitted as a Cloud 9 Preview will be disqualified**
 
+### A digital copy of the Hackathon Packet can be found [here](https://docs.google.com/document/d/1_5A_7kOpoXuPOsdFP_FGPwwH2Ny7AJI5IhSqT32NZ4c/edit?usp=sharing)
 
 ##Submit Projects Here
 Letter| Team Name |        Github Repo      |      Deployable Link    | 
@@ -17,20 +18,19 @@ A     |           | [Link](insert link here)| [Link](insert link here)|
 B     |           | [Link](insert link here)| [Link](insert link here)|
 C     |           | [Link](insert link here)| [Link](insert link here)|
 D     |           | [Link](insert link here)| [Link](insert link here)|
-E     |           | [Link](insert link here)| [Link](insert link here)|
-F     |           | [Link](insert link here)| [Link](insert link here)|
-G     |           | [Link](insert link here)| [Link](insert link here)|
-H     |           | [Link](insert link here)| [Link](insert link here)|
-I     |           | [Link](insert link here)| [Link](insert link here)|
-J     |           | [Link](insert link here)| [Link](insert link here)|
-K     |           | [Link](insert link here)| [Link](insert link here)|
+E     |Water Crisis| [Link](https://github.com/Kayahma23/Water-Crisis)| [Link](https://rawgit.com/Kayahma23/Water-Crisis/master/home.html)|
+F     |     Swaze      | [Link](https://github.com/franklin97/wazeforefugees)| [Link](https://output.jsbin.com/rixojigihi)|
+G     |Save the Water| [Link](https://github.com/jocelynr/environmental-hackathon)| [Link](https://cdn.rawgit.com/jocelynr/environmental-hackathon/master/index.html)|
+H     |Clean-Up Team| [Link](https://github.com/EpicHoward/hackathon)| [Link](https://epichoward.github.io/hackathon/)|
+I     |      ---  | ---| ---|
+J     |The Landfill | [Link](https://github.com/rosarivera123/scripted-hackathon-2016)| [Link](https://cdn.rawgit.com/rosarivera123/scripted-hackathon-2016/master/intro-page.html)|
+K     |     TK Kokoon      | [Link](https://github.com/evelyncarrera22/team_k)| [Link](https://cdn.rawgit.com/evelyncarrera22/team_k/master/firstpage.html)|
 L     |           | [Link](insert link here)| [Link](insert link here)|
 M     |           | [Link](insert link here)| [Link](insert link here)|
 N     |           | [Link](insert link here)| [Link](insert link here)|
-O     |           | [Link](insert link here)| [Link](insert link here)|
-P     |           | [Link](insert link here)| [Link](insert link here)|
-Q     |           | [Link](insert link here)| [Link](insert link here)|
-R     |           | [Link](insert link here)| [Link](insert link here)|				
+O     |    Team O       | [Link](https://github.com/azizyokubjonov/let-s-talk)| [Link](https://rawgit.com/azizyokubjonov/let-s-talk/master/index.html)|
+P     |     Team P      | [https://github.com/cruiz18/code4change]| [https://rawgit.com/cruiz18/code4change/master/index.html]|
+		
 
 ##Prizes
 * **1st Place**: Laptop (Asus) & 64GB ThumbDrive
@@ -47,9 +47,10 @@ Time         | Activity        |
 10:15am  | Teams start wireframing & planning      | 
 11:00am      | Teams get laptops  | 
 11:45am           | Lunch: Sandwiches    | 
-5:00pm         | Projects due: Projects submitted after 5pm are disqualified     |
+4:45pm           | Start submitting your project   | 
+5:00pm         | Projects due: Projects submitted after 5pm are disqualified // Pizza Break!      |
 5:10pm         | Presentations begin     | 
-5:30-5:40            | Pizza Break!     | 
+5:35-5:40            | Break!   | 
 5:40pm           | Presentations resume (spectators eat pizza) |
 6:50pm           | Judges deliberate | 
 7:10pm           | Prizes awarded |
